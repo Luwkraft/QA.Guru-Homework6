@@ -1,0 +1,15 @@
+    Загаловок: Проверка поиска в Википедии по слову Time
+
+    Тестовые данные:{Time, Time is the continued sequence of existence and events},
+    {Space, Space is the boundless three-dimensional extent}
+
+    Предусловия:
+    Открыт браузер со строницей https://en.wikipedia.org/wiki/
+
+    Шаги:
+    - Ввести слово {Time} {Space}
+    - Нажать кнопку "найти"
+
+    Ожидаемый результат:
+    - открылась страница результатов, содержащая карточку с текстом {Time is the continued sequence of existence and events}
+    - открылась страница результатов, содержащая карточку с текстом {Space is the boundless three-dimensional extent}

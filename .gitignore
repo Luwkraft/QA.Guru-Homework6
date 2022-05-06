@@ -1,0 +1,14 @@
+# Project exclude paths
+/.idea
+/.allure/
+/.gradle/
+/allure-results/
+/gradle/
+/build/
+/bin/
+/out/
+/logs/
+/target/
+/gradlew
+/gradlew.bat
+/settings.gradle
